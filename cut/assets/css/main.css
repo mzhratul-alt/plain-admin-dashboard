@@ -2852,6 +2852,10 @@ h6,
   ul
   li
   a.active,
+    .sidebar-nav-wrapper
+    .sidebar-nav
+    ul
+    .nav-item.active,
 .sidebar-nav-wrapper
   .sidebar-nav
   ul
